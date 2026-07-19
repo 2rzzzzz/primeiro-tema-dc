@@ -1,0 +1,7 @@
+{
+  "name": "Noite Neon",
+  "author": "2r",
+  "version": "1.0.0",
+  "description": "Tema escuro com neon",
+  "css": ":root { --background-primary: #0d0d0d; --background-secondary: #141414; --background-tertiary: #1c1c1c; --brand-experiment: #00ffcc; --text-normal: #e0e0e0; } body { background-image: url('https://i.imgur.com/8Km9tLL.jpg'); background-size: cover; background-position: center; } .appMount-2yBXZl { backdrop-filter: blur(10px); }"
+}
